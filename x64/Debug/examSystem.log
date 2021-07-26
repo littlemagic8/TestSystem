@@ -1,0 +1,9 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (infoSystem.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CRegisterUser.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CRegisterUser.cpp(150,13): warning C4101: “row_Editstu”: 未引用的局部变量
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CRegisterUser.cpp(223,13): warning C4101: “row_Editstu”: 未引用的局部变量
+  examSystem.vcxproj -> F:\外包\c_exam\mfc\mfc\examSystem\examSystem\x64\Debug\examSystem.exe

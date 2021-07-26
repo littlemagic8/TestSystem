@@ -1,0 +1,130 @@
+﻿  ADDSTUMARK.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\ADDSTUMARK.cpp(10,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CallUser.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CEditStuInfo.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CEditUserInfo.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+  CInputSingleTest.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CInputSingleTest.h(2,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CManagerDlg.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  COnlineTest.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CRegisterUser.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CStudentDlg.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CstuMarkManager.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CInputSingleTest.h(2,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CTeacherDlg.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CInputSingleTest.h(2,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  CTestManager.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CTestManager.cpp(8,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  C_TADDSTU.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\C_TADDSTU.h(2,9): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  DELETEMARK.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\DELETEMARK.cpp(10,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  DELETESTU.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\DELETESTU.cpp(10,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  INFORADD.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\INFORADD.cpp(10,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  examSystem.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  examSystemDlg.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  ListShow.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+  LOGIN.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+  正在生成代码...
+  正在编译...
+  MAINLOG.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  ManagerStu.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\ManagerStu.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  STUMARK.cpp
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(93,1): warning C4005: “IDOK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11108): message : 参见“IDOK”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\resource.h(94,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\examSystem\examSystem\CEditStuInfo.h(4,10): fatal error C1083: 无法打开包括文件: “mysql.h”: No such file or directory
+  正在生成代码...

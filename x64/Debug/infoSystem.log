@@ -1,0 +1,46 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (infoSystem.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  ADDSTUMARK.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\ADDSTUMARK.cpp(55,12): warning C4101: “row”: 未引用的局部变量
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\ADDSTUMARK.cpp(54,13): warning C4101: “res”: 未引用的局部变量
+  DELETEMARK.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\DELETEMARK.cpp(48,13): warning C4101: “row”: 未引用的局部变量
+  DELETESTU.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\DELETESTU.cpp(52,13): warning C4101: “row”: 未引用的局部变量
+  INFORADD.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\INFORADD.cpp(73,12): warning C4101: “row”: 未引用的局部变量
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\INFORADD.cpp(72,13): warning C4101: “res”: 未引用的局部变量
+  examSystem.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+  examSystemDlg.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+  ListShow.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+  LOGIN.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+  MAINLOG.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\MAINLOG.cpp(295,20): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\MAINLOG.cpp(496,20): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+  STUMARK.cpp
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\resource.h(25,1): warning C4005: “IDCANCEL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : 参见“IDCANCEL”的前一个定义
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\STUMARK.cpp(260,22): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+F:\外包\c_exam\mfc\mfc\infoSystem\infoSystem\STUMARK.cpp(379,22): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(1438): warning RC4005: 'IDCANCEL' : redefinition
+  
+  infoSystem.vcxproj -> F:\外包\c_exam\mfc\mfc\infoSystem\x64\Debug\examSystem.exe

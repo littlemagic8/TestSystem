@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LOGIN.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MAINLOG.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListShow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="INFORADD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DELETESTU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="STUMARK.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ADDSTUMARK.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DELETEMARK.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examSystem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examSystemDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CManagerDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CStudentDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTeacherDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRegisterUser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="COnlineTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CEditUserInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CEditStuInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CInputSingleTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerStu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C_TADDSTU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CstuMarkManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CallUser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTestManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LOGIN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MAINLOG.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ListShow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="INFORADD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DELETESTU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STUMARK.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ADDSTUMARK.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DELETEMARK.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examSystem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examSystemDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CManagerDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CStudentDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTeacherDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CRegisterUser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="COnlineTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEditUserInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CInputSingleTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEditStuInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerStu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C_TADDSTU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CstuMarkManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CallUser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTestManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\mainlog1.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\examSystem.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\login2.bin">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\examSystem.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\exam.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="examSystem.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
