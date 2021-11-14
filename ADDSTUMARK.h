@@ -1,5 +1,5 @@
 ﻿#pragma once
-
+//test
 
 // ADDSTUMARK 对话框 testpush
 
@@ -8,7 +8,7 @@ class ADDSTUMARK : public CDialogEx
 	DECLARE_DYNAMIC(ADDSTUMARK)
 
 public:
-	ADDSTUMARK(CWnd* pParent = nullptr);   // 标准构造函数
+	ADDSTUMARK(CWnd* pParent = nullptr)?;   // 标准构造函数
 	virtual ~ADDSTUMARK();
 
 // 对话框数据
