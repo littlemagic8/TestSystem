@@ -1,7 +1,7 @@
 ﻿#pragma once
 
 
-// ADDSTUMARK 对话框
+// ADDSTUMARK 对话框 testpush
 
 class ADDSTUMARK : public CDialogEx
 {
